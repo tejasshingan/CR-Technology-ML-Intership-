@@ -1,6 +1,3 @@
-My apologies for overlooking your request. Here's the README file with the index included:
-
-```markdown
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
@@ -56,5 +53,3 @@ Feel free to explore and modify the code as needed for your own food recognition
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-I hope this README meets your requirements.
